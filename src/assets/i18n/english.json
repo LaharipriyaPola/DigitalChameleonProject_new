@@ -1,0 +1,23 @@
+{
+		"email": "Email",
+		"password": "Password",
+		"confirmPassword": "Confirm Password",
+		"mobileNumber": "Mobile number",
+		"profilePicture": "ProfilePicture",
+		"gender": "Gender",
+		"dateOfBirth": "Date of Birth",
+		"address": "Address",
+		"hobbies": "Hobbies",
+        "annualIncome":"Annual Income",
+		"termsAndConditions": "Please confirm that you agree to our terms and conditions",
+        "submit" : "Submit",
+        "languagebutton":"Language Button",
+        "male":"Male",
+        "female":"Female",
+        "others":"Others",
+        "travelling" :"Travelling",
+        "writing":"Writing",
+        "reading" :"Reading",
+        "english" : "English",
+        "french":"French"
+    }
